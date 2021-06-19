@@ -1,0 +1,13 @@
+# Write a Python program that will accept the base and height of a triangle and compute the area.
+
+
+def traingle_function(height, base):
+    height
+    base
+
+    area_of_traingle = height * base / 2
+
+    print(area_of_traingle)
+
+
+traingle_function(5, 5)
